@@ -1,3 +1,20 @@
+# ⚽️ Sportradar challenge 
+
+This challenge has been super fun to work with and practice my frontend development skills while working with external data.
+
+# 👨‍💻 Code explanation
+
+I have used these following hooks in React:
+
+1. useState
+2. useEffect 
+
+to fetch and display the data from the URL (stored in a url const) in the browser.
+
+# Tech stack used
+
+React.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
